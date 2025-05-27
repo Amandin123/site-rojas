@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 2.8;
+  background-color: #8dee8d;
+  color: #333;
+  font-size: 20px;
+  display: flex;
+}
+
+header {
+  background-color: #13a352;
+  color: white;
+  padding: 2rem;
+  text-align: center;
+  display: flex;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  margin-bottom: 7rem;
+}
+
+section img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 1rem;
+  border-radius: 8px;
+}
+
+.actions ul {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+}
+
+footer {
+  background-color: #2e8b57;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+  margin-top: 2rem;
+}
